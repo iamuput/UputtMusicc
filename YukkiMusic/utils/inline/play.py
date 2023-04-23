@@ -72,7 +72,7 @@ def stream_markup(_, videoid):
                 text=_["S_B_9"], url=f"https://t.me/amneseey0u",
             ),
             InlineKeyboardButton(
-                text=_["S_B_9"], url=f"https://t.me/store_ign",
+                text=_["S_B_9"], url=f"https://t.me/UputtStore",
             ),
         ],
         [
